@@ -1,0 +1,10 @@
+const userName = "Olena";
+const lessonNumber = 1;
+const isHomeworkStarted = true;
+const emptyValue = null;
+let notAssigned;
+console.log(userName);
+console.log(lessonNumber);
+console.log(isHomeworkStarted);
+console.log(emptyValue);
+console.log(notAssigned);
